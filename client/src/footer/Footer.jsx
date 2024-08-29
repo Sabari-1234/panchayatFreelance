@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className="footer-root p-1 flex justify-center items-center bg-gray-800 text-white">
+    <div className="footer-root flex justify-center items-center bg-[#0F172A] text-[#9CA3AF]">
       Copyright &copy; 2024
     </div>
   );
